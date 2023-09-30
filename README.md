@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diikkshaa
 - 👀 I’m interested in website development...
-- 🌱 I’m currently learning Javascript html and css 👩‍💻🤎
+- 🌱 I’m currently learning full stack devlopment 👩‍💻🤎
 
 
 <!---
