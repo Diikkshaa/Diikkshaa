@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Diikkshaa
-- 👀 I'm a passionate web development enthusiast with a strong focus on front-end technologies.My journey in the world of web development began with a fascination for creating beautiful and user-friendly websites.
-- 🌱 I’m currently learning full stack devlopment 👩‍💻🤎
+
 
 
 <!---
